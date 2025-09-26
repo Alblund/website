@@ -1,0 +1,40 @@
+body {
+  background-color: lightslategray;
+  margin: 0px;
+}
+
+.header {
+  background-color: rgb(157, 65, 0);
+  padding: 0px;
+  margin: 0px;
+  margin-top: auto;
+  border-bottom: 5px;
+  border-style: solid;
+  justify-content: center;
+  align-content: center;
+}
+
+.main {
+  background-color: rgb(131, 41, 3);
+  justify-self: center;
+  padding: 0px;
+  width: 70%;
+  height: 650px;
+  border: 5px;
+  border-style: solid;
+  align-content: space-evenly;
+  border-top: 0px;
+}
+
+.text {
+  display: flex;
+  align-content: space-around;
+  padding: 5px;
+  background-color: lightslategrey;
+  height: 250px;
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+  width: 60%;
+  justify-self: center;
+}
